@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "977710223511",
+    "firebase_url": "https://otrapruebaelpais.firebaseio.com",
+    "project_id": "otrapruebaelpais",
+    "storage_bucket": "otrapruebaelpais.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977710223511:android:95c57fb80fcdfb76",
+        "android_client_info": {
+          "package_name": "com.elpais2.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977710223511-gfg1fgk2f1mndrq2k9a58nendihnlsc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFSOUMTlf91onksu1AstJe4Ub2Fy7rnn0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977710223511:android:7f611b9828224720",
+        "android_client_info": {
+          "package_name": "com.elpaispy.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977710223511-gfg1fgk2f1mndrq2k9a58nendihnlsc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFSOUMTlf91onksu1AstJe4Ub2Fy7rnn0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
